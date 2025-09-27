@@ -91,3 +91,5 @@ Our vision is to democratize access to credit assessment by creating a transpare
 - **API Development**: RESTful APIs for third-party integration and mobile applications
 
 This project represents a fundamental shift toward a more equitable, transparent, and accessible financial infrastructure that empowers individuals and promotes global financial inclusion through blockchain technology.
+
+<img width="1919" height="974" alt="Screenshot 2025-09-27 141945" src="https://github.com/user-attachments/assets/7213b980-7b8e-4c12-9367-ee24e1b3e842" />
